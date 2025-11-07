@@ -42,4 +42,8 @@
         float: left;
         width: 50%;
     }
+    
+    #login>p{
+    font-size: 2em;
+}
 }
